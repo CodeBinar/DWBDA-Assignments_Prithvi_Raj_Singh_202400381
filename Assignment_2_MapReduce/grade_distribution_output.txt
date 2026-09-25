@@ -1,0 +1,67 @@
+Database Management Systems Lab,A	13
+Database Management Systems Lab,B	15
+Database Management Systems Lab,C	11
+Database Management Systems Lab,D	8
+Database Management Systems Lab,DT	3
+Database Management Systems Lab,E	2
+Database Management Systems Lab,S	6
+Database Management Systems,A	10
+Database Management Systems,B	17
+Database Management Systems,C	8
+Database Management Systems,D	10
+Database Management Systems,DT	3
+Database Management Systems,E	5
+Database Management Systems,I	3
+Database Management Systems,S	3
+Design And Analysis Of Algorithms,A	4
+Design And Analysis Of Algorithms,B	15
+Design And Analysis Of Algorithms,C	14
+Design And Analysis Of Algorithms,D	11
+Design And Analysis Of Algorithms,DT	2
+Design And Analysis Of Algorithms,E	9
+Design And Analysis Of Algorithms,F	1
+Design And Analysis Of Algorithms,I	3
+Object Oriented Programming Using Java Lab,A	13
+Object Oriented Programming Using Java Lab,B	10
+Object Oriented Programming Using Java Lab,C	13
+Object Oriented Programming Using Java Lab,D	13
+Object Oriented Programming Using Java Lab,DT	3
+Object Oriented Programming Using Java Lab,E	1
+Object Oriented Programming Using Java Lab,MP	1
+Object Oriented Programming Using Java Lab,S	4
+Probability, Statistics And Stochastic Processes,A	39
+Probability, Statistics And Stochastic Processes,B	44
+Probability, Statistics And Stochastic Processes,C	44
+Probability, Statistics And Stochastic Processes,D	62
+Probability, Statistics And Stochastic Processes,DT	9
+Probability, Statistics And Stochastic Processes,E	46
+Probability, Statistics And Stochastic Processes,F	84
+Probability, Statistics And Stochastic Processes,I	17
+Probability, Statistics And Stochastic Processes,MP	2
+Probability, Statistics And Stochastic Processes,S	20
+Programming In Java (Elective Ii),A	2
+Programming In Java (Elective Ii),B	7
+Programming In Java (Elective Ii),C	19
+Programming In Java (Elective Ii),D	12
+Programming In Java (Elective Ii),DT	3
+Programming In Java (Elective Ii),E	8
+Programming In Java (Elective Ii),F	5
+Programming In Java (Elective Ii),I	1
+Programming In Java (Elective Ii),MP	1
+Programming In Java (Elective Ii),S	1
+Project Based Learning Ii,A	3
+Project Based Learning Ii,B	10
+Project Based Learning Ii,C	19
+Project Based Learning Ii,D	19
+Project Based Learning Ii,E	1
+Project Based Learning Ii,I	6
+Universal Human Value Ii,A	43
+Universal Human Value Ii,B	123
+Universal Human Value Ii,C	143
+Universal Human Value Ii,D	76
+Universal Human Value Ii,DT	14
+Universal Human Value Ii,E	19
+Universal Human Value Ii,F	14
+Universal Human Value Ii,I	10
+Universal Human Value Ii,MP	2
+Universal Human Value Ii,S	5
